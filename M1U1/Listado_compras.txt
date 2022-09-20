@@ -1,3 +1,5 @@
 manzanas
 peras
 papas
+pan frutillas
+huevos
